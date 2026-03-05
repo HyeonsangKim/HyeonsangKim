@@ -16,9 +16,9 @@
   <a href="https://github.com/wigtn/wigtn-plugins-with-claude-code" target="_blank"><b>WIGTN Plugins Repo</b></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&style=flat-square" />
-</p>
+</p> -->
 
 ---
 
