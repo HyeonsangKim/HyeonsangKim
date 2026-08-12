@@ -61,33 +61,6 @@ I work at the intersection of **B2B operational systems** and **AI-native engine
 
 ---
 
-## Current Work @ Soundmind
-
-Working on a B2B platform that ships pre-installed child-safety services to OEM devices (e.g., Galaxy Kids phones) via partners like Norang Market.
-
-### 🔐 Unified Auth & Permission Server
-- Designed solo — a single auth infrastructure serving multiple white-label partner services
-- **Token Rotation + Token Family Tracking** to detect refresh-token reuse attacks
-- **RBAC**, **PII lifecycle automation**, **Audit Log** for full operational traceability
-- **Retry + DLQ** with a recovery console for partial-failure recovery without ops handholding
-
-### 📍 ODIYA — Real-time Child Location Service
-- Redis buffering + batch processing redesign → **95% reduction in DB write load** at 3,000~5,000 events/min
-- Haversine-based safe-zone entry/exit detection
-- OTA pipeline with HotUpdater + Supabase
-- Contributed to **~230% B2B revenue growth** through platform stabilization
-
-### 📱 Mohani — Remote Device Control
-- Real-time app monitoring & blocking via Android AccessibilityService
-- Samsung Knox Firewall integration for domain-level access control
-- Diagnosed and eliminated recurring ANR caused by RN Bridge Queue + Knox IPC + Broadcast timeout
-
-### 🏛️ KOCCA — Korean Language Assessment (National R&D)
-- Full-stack Next.js + Prisma + PostgreSQL platform for foreign-student Korean proficiency evaluation
-- 16kHz WAV recording → AWS S3 → external STT pipeline
-
----
-
 ## WIGTN Crew
 
 Founding member of **WIGTN**, a 5-person AI engineering crew building harnesses and tools for AI-native development.
