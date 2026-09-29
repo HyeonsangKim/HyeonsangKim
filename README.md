@@ -6,7 +6,7 @@
 
 <p align="center">
   AI Product Engineer @ <b>WIGTN</b><br/>
-  AI development workflows · Auth &amp; messaging backends · Mobile
+  AI agents · Agent harnesses · Auth &amp; access control
 </p>
 
 <p align="center">
@@ -36,21 +36,20 @@ I build AI agents that hold up in production, and the backend underneath them.
 
 Founding member of **WIGTN**, a 5-person AI engineering crew building harnesses and tools for AI-native development.
 
-### 🔌 WIGTN-Coding — Multi-Agent Development Harness for Claude Code
-A plugin that lets multiple AI agents collaborate on real codebases without losing context or quality.
+### 🔌 WIGTN-Coding: AI Development Workflow Harness
+Open-source harness for Claude Code and Codex that takes AI-assisted work from PRD to release.
 
-- Role-based SKILL.md definitions for PRD writing, architecture design, parallel development, and code review
-- **Validation gates** between stages — only output that passes quality checks advances
-- Designed for teams: the same workflow that works for one developer scales to many
-- → **Repo:** https://github.com/wigtn/wigtn-plugins
+- PRD writing, task planning, requirement verification, and release checks in one skill pipeline
+- **Verification gates** at the planning, review, and commit stages, with a commit hook that blocks failed checks
+- Repos: [Claude Code](https://github.com/wigtn/wigtn-plugins) · [Codex](https://github.com/wigtn/wigtn-plugins-codex)
 
 ---
 
 ## Achievements
 
-- 🏆 **Grand Prize** — ByteDance Build with TRAE Seoul (multi-agent debate platform)
-- 🥈 **2nd Place, Tech Track** — Snowflake AI & Data Hackathon 2026 Korea
-- 🎖️ **Top 6** — OBA Weekendthon Season 1
+- 🏆 **Grand Prize**, ByteDance Build with TRAE Seoul (WIGENT, multi-agent debate platform)
+- 🥈 **2nd Place, Tech Track**, Snowflake AI & Data Hackathon 2026 Korea (WIGTN FLAKE)
+- 🎖️ **Top 6**, OBA Weekendthon Season 1 (Myunzy)
 
 ---
 
