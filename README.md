@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf"><b>CV (EN)</b></a>
-  ·
-  <a href="https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_ko.pdf"><b>이력서 (KO)</b></a>
+  <a href="https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf"><b>CV</b></a>
   ·
   <a href="https://kims-portfolio-six.vercel.app/" target="_blank"><b>Portfolio</b></a>
   ·
@@ -89,7 +87,7 @@ A plugin that lets multiple AI agents collaborate on real codebases without losi
 
 ## CV
 
-📄 [CV (English, PDF)](https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf) · [이력서 (한국어, PDF)](https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_ko.pdf)
+📄 [Download CV (PDF)](https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf)
 
 🌐 Portfolio: https://kims-portfolio-six.vercel.app/
 
