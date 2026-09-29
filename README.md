@@ -23,14 +23,12 @@
 
 ## About
 
-I work at the intersection of **B2B operational systems** and **AI-native engineering**.
+I build AI agents that hold up in production, and the backend underneath them.
 
-- Designed a multi-tenant **auth & permission platform** from scratch, serving multiple B2B partners on a single infrastructure
-- Solved high-throughput operational issues — reduced DB write load by **95%** under 3,000~5,000 events/min
-- Building open-source **harnesses** that let AI agents produce consistent, verifiable output without human intervention
-- Won **ByteDance Build with TRAE Hackathon (Grand Prize)** and **Snowflake AI & Data Hackathon Korea (2nd Place, Tech Track)** with multi-agent systems
-
-> "Systems run reliably not because someone patches them every time, but because they're built to not break without a human in the loop."
+- Co-develop **WIGTN-Coding**, an open-source AI development workflow harness for Claude Code and Codex, with verification gates at the planning, review, and commit stages.
+- Led the MX team at Soundmind, building the auth server, backend, and mobile apps for B2B kids' phones. Cut DB write load by **95%** with Redis batching and added token-reuse detection, RBAC, and webhook-based auth events.
+- Build multi-agent systems at hackathons: **Grand Prize** at ByteDance Build with TRAE Seoul and **2nd Place (Tech Track)** at Snowflake AI & Data Hackathon 2026 Korea.
+- Co-author of papers at **ACL 2026 System Demonstrations** and **EMNLP 2026 Industry Track**.
 
 ---
 
