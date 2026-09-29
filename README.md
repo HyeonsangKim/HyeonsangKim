@@ -5,16 +5,20 @@
 <h1 align="center">Hyeonsang Kim</h1>
 
 <p align="center">
-  Full-stack Engineer @ <b>Soundmind</b> · Founding Member @ <b>WIGTN Crew</b><br/>
-  Building harnesses for AI workflows · Designing systems that run without humans in the loop
+  AI Product Engineer @ <b>WIGTN</b><br/>
+  AI development workflows · Auth &amp; messaging backends · Mobile
 </p>
 
 <p align="center">
+  <a href="https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf"><b>CV (EN)</b></a>
+  ·
+  <a href="https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_ko.pdf"><b>이력서 (KO)</b></a>
+  ·
   <a href="https://kims-portfolio-six.vercel.app/" target="_blank"><b>Portfolio</b></a>
   ·
   <a href="https://github.com/wigtn" target="_blank"><b>WIGTN</b></a>
   ·
-  <a href="https://github.com/wigtn/wigtn-plugins-with-claude-code" target="_blank"><b>WIGTN-Coding Plugin</b></a>
+  <a href="https://github.com/wigtn/wigtn-plugins" target="_blank"><b>WIGTN-Coding Plugin</b></a>
 </p>
 
 ---
@@ -26,7 +30,7 @@ I work at the intersection of **B2B operational systems** and **AI-native engine
 - Designed a multi-tenant **auth & permission platform** from scratch, serving multiple B2B partners on a single infrastructure
 - Solved high-throughput operational issues — reduced DB write load by **95%** under 3,000~5,000 events/min
 - Building open-source **harnesses** that let AI agents produce consistent, verifiable output without human intervention
-- Won **ByteDance Build with TRAE Hackathon (Grand Prize)** and **Snowflake AI & Data Hackathon Korea (Runner-up)** with multi-agent verification workflows
+- Won **ByteDance Build with TRAE Hackathon (Grand Prize)** and **Snowflake AI & Data Hackathon Korea (2nd Place, Tech Track)** with multi-agent systems
 
 > "Systems run reliably not because someone patches them every time, but because they're built to not break without a human in the loop."
 
@@ -71,20 +75,23 @@ A plugin that lets multiple AI agents collaborate on real codebases without losi
 - Role-based SKILL.md definitions for PRD writing, architecture design, parallel development, and code review
 - **Validation gates** between stages — only output that passes quality checks advances
 - Designed for teams: the same workflow that works for one developer scales to many
-- → **Repo:** https://github.com/wigtn/wigtn-plugins-with-claude-code
+- → **Repo:** https://github.com/wigtn/wigtn-plugins
 
 ---
 
 ## Achievements
 
-- 🏆 **Grand Prize** — ByteDance Build with TRAE Hackathon (multi-agent debate platform with built-in verification)
-- 🥈 **Runner-up** — Snowflake AI & Data Hackathon Korea
+- 🏆 **Grand Prize** — ByteDance Build with TRAE Seoul (multi-agent debate platform)
+- 🥈 **2nd Place, Tech Track** — Snowflake AI & Data Hackathon 2026 Korea
+- 🎖️ **Top 6** — OBA Weekendthon Season 1
 
 ---
 
-## Portfolio
+## CV
 
-🌐 https://kims-portfolio-six.vercel.app/
+📄 [CV (English, PDF)](https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_en.pdf) · [이력서 (한국어, PDF)](https://github.com/HyeonsangKim/HyeonsangKim/raw/main/cv/CV_KimHyeonsang_ko.pdf)
+
+🌐 Portfolio: https://kims-portfolio-six.vercel.app/
 
 ---
 
@@ -99,4 +106,4 @@ A plugin that lets multiple AI agents collaborate on real codebases without losi
 
 ## Contact
 
-Open to conversations about **AI harnesses**, **multi-agent workflows**, and **enterprise-grade AI systems**. Reach out anytime.
+Open to conversations about **AI harnesses**, **multi-agent workflows**, and **enterprise-grade AI systems**. Reach out anytime at **hyeonsang@wigtn.com**.
